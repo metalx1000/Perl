@@ -1,3 +1,5 @@
 I am writing to a file
 This is a line in that file
 this is the last line in the file
+This is a new line
+This is a new line
